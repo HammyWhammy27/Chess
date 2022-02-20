@@ -1,0 +1,22 @@
+
+img{
+    height: 600px;
+    width: 400px;
+    border: 10px solid cadetblue;
+}
+body{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+
+/* Put everything in the center. 
+Add a background
+Change the look of the font.
+Change the size of the h1 and p tags 
+Add margins to the images 
+Add border to the images, each image must have a different color border
+ */
